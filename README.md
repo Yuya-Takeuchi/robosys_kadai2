@@ -18,3 +18,4 @@
 実際に動かしたときの映像が[こちら](https://youtu.be/Aa_mUcEzrWc)です。
 
 ## ライセンス
+[BSD 3-Clause License](https://github.com/Yuya-Takeuchi/robosys_kadai2/blob/main/LICENSE)
