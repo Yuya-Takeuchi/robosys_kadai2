@@ -12,7 +12,7 @@
 
 ## 動作環境
 - Ubuntu 20.04
-- Ros Noetic
+- ROS Noetic
 
 ## 実行手順
 
