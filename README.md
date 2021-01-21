@@ -14,6 +14,30 @@
 
 ## 実行手順
 
+1.インストール
+```
+cd　 ~/catkin_ws/src
+git clone 
+cd ..
+catkin_make
+source ~/.bashrc
+```
+2.ターミナル①
+```
+roscore
+```
+3.ターミナル②
+```
+chmod +x suuzi.py
+rosrun robosys_kadai2 suuzi.py
+```
+4.ターミナル③
+```
+chmod +x nabeatu.py
+rosrun robosys_kadai2 nabeatu.py
+```
+
+
 ## デモ動画
 実際に動かしたときの映像が[こちら](https://youtu.be/Aa_mUcEzrWc)です。
 
